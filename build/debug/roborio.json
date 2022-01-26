@@ -1,9 +1,0 @@
-[
-  {
-    "type": "java",
-    "name": "frcJava",
-    "port": 8349,
-    "target": "10.74.80.2",
-    "project": "FredJavaDriveCode"
-  }
-]
